@@ -11,6 +11,7 @@
 		AB6923B42A3761940086F46B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB6923B32A3761940086F46B /* ContentView.swift */; };
 		AB6923B62A3761950086F46B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB6923B52A3761950086F46B /* Assets.xcassets */; };
 		AB6923B92A3761950086F46B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB6923B82A3761950086F46B /* Preview Assets.xcassets */; };
+		AB6923C02A37762F0086F46B /* ColorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB6923BF2A37762F0086F46B /* ColorView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		AB6923B32A3761940086F46B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		AB6923B52A3761950086F46B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AB6923B82A3761950086F46B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		AB6923BF2A37762F0086F46B /* ColorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				AB6923B12A3761940086F46B /* ColorizedSwiftIUIApp.swift */,
 				AB6923B32A3761940086F46B /* ContentView.swift */,
+				AB6923BF2A37762F0086F46B /* ColorView.swift */,
 				AB6923B52A3761950086F46B /* Assets.xcassets */,
 				AB6923B72A3761950086F46B /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AB6923C02A37762F0086F46B /* ColorView.swift in Sources */,
 				AB6923B42A3761940086F46B /* ContentView.swift in Sources */,
 				AB6923B22A3761940086F46B /* ColorizedSwiftIUIApp.swift in Sources */,
 			);
